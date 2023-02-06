@@ -1,3 +1,5 @@
+<img src="Dynatrace.png">
+
 # Dynatrace-Associate-Study-Notes
 
 
