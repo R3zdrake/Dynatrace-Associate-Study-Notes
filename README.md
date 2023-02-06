@@ -1,4 +1,4 @@
-<img src="dynatrace2.png">
+<img src="dynatrace3.jfif">
 
 # Dynatrace-Associate-Study-Notes
 
